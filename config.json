@@ -1,6 +1,6 @@
 {
-  "version_code": 1,
-  "redirect_mode": true,
+  "version_code": 3,
+  "redirect_mode": false,
   "new_package": "com.funnmedia.waterminder",
   "remot_ads": true,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
