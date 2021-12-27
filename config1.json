@@ -9,5 +9,7 @@
   "download_status": false,
   "search_status": true,
   "folder_status": true,
-  "subscribe_status": true
+  "subscribe_status": true,
+  "downloadUrl": "https://play.google.com/store/apps/details?id=",
+  "imageUrl": "https://k.kakaocdn.net/dn/dtGBVW/btq9Nt8f2yG/3FVqk4OSnN0lxfXsbDKix0/img.png"
 }
